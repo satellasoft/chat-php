@@ -1,0 +1,1 @@
+<p><span>Gunnar: </span> Hello</p><p><span>Gunnar: </span> hello</p><p><span>Gunnar: </span> tudo bem:?</p><p><span>Gunnar: </span> teste 123</p><p><span>Jane: </span> Hi, are u okay?</p><p><span>Gunnar: </span> teste 123</p><p><span>Jane: </span> 456</p><p><span>Nick: </span> tetetetetetetet</p><p><span>Gunnar: </span> Mais uma aula concluída aqui na SatellaSoft!</p>

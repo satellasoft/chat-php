@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    border: none;
+}
+
+.bg-img {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#dv-right {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-left: 5px solid rgb(10, 141, 255);
+    width: 100%;
+    max-width: 350px;
+    height: 100vh;
+    float: right;
+    padding: 20px;
+}
+
+#dv-form-content {
+    margin-top: 30%;
+}
+
+.logo {
+    width: 100%;
+    max-width: 250px;
+    margin: 25px 0;
+}
+
+
+/*CHAT*/
+
+.dv-center {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid rgb(220, 220, 220);
+    -webkit-box-shadow: 36px 22px 50px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 36px 22px 50px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 36px 22px 50px 0px rgba(0, 0, 0, 0.75);
+}
+
+
+#chat {
+    height: 78vh;
+    display: block;
+    background-color: #eee;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+#chat p {
+    background-color: rgb(225, 231, 235);
+    border-radius: 10px;
+    padding: 10px 5px;
+}
+
+#chat p span {
+    font-weight: bold;
+}
+
+#frm-chat {
+    display: block;
+    margin: 50px 0;
+}
